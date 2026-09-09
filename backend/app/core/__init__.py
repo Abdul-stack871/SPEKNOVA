@@ -1,0 +1,1 @@
+# SpekNova Core Package
